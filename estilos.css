@@ -21,7 +21,7 @@ body {
 .contenedor {
 	width: 100%;
     background-size: cover;
-    background-image: url('../fondo.jpg');
+    background-image: url('fondo.jpg');
     background-position:center;    
     position: relative;
     z-index: 99;
